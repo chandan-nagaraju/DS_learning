@@ -4,7 +4,7 @@
 
 - open anaconda prompt and create a conda environment.
 
--- "conda create -p DS python=3.8 -y" i have installed env to my specified path.
+    - "conda create -p DS python=3.8 -y" i have installed env to my specified path.
 
 - install pydotplus it helps to visualize decision tree in the process of learning.
 
