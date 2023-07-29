@@ -1,4 +1,4 @@
-#Documenting all my data science and machine learning.
+#Documenting all my data science and machine learning works.
 -------------------------------------------------------------------------------------------------------------------------
 - install anaconda.
 
